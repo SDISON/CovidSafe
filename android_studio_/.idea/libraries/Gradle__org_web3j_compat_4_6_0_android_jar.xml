@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.web3j:compat:4.6.0-android@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/compat/4.6.0-android/9702980f5f6ef659162eb9abef8c9ea4745fc48/compat-4.6.0-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.web3j/compat/4.6.0-android/ade808a8c044b6937bda83313fafb1ed990fa4db/compat-4.6.0-android-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
